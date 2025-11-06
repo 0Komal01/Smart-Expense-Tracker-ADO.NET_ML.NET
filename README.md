@@ -63,7 +63,7 @@ All ML models are trained dynamically using **ML.NET** each time the page loads 
 <img width="973" height="436" alt="image" src="https://github.com/user-attachments/assets/83478a18-d7d9-4cb6-9b12-8f0f787c82c7" />
 <img width="973" height="437" alt="image" src="https://github.com/user-attachments/assets/16761e04-ebc0-433a-91ce-d9784d0ee767" />
 
-
+[Project Report.docx](https://github.com/user-attachments/files/23394807/Project.Report.docx)
 
 
 ## 👩‍💻 Author
