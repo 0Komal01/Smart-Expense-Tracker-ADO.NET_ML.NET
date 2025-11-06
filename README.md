@@ -24,12 +24,13 @@ The system allows users to manage income, expenses, and budgets — while using 
    
 
 ## 📊 ML Models Used
-| Model | Type | Purpose |
-|--------|------|----------|
-| Time Series Forecast | Predict future expenses |
-| Z-Score Anomaly Detection | Detect unusual spending patterns |
-| K-Means Clustering | Group spending categories |
-| Averaged Perceptron | Predict overspending risk |
+| 🧠 Model Name                 | 🧩 Type / Algorithm                  | 🎯 Purpose Description                                          |
+| ----------------------------- | ------------------------------------ | --------------------------------------------------------------- |
+| **Time Series Forecasting**   | Exponential Smoothing (Holt-Winters) | Predicts **future expenses** based on past spending trends.     |
+| **Z-Score Anomaly Detection** | Statistical Analysis                 | Detects **unusual spending spikes or drops** in daily expenses. |
+| **K-Means Clustering**        | Unsupervised Learning                | Groups **spending categories** with similar behavior patterns.  |
+| **Averaged Perceptron**       | Binary Classification (ML.NET)       | Predicts the **risk of overspending** for the current month.    |
+
 
 
 ## 🗄️ Database Design
