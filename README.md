@@ -1,5 +1,4 @@
-# Smart-Expense-Tracker-ADO.NET_ML.NET
-# 💰 Expense Tracker with ML Predictions (ASP.NET Web Forms + ADO.NET + ML.NET)
+# 💰 Expense Tracker with ML Predictions ( ADO.NET+ ASP.NET Web Forms+ ML.NET)
 
 ## 🧠 Overview
 This is a full-featured Expense Tracking System built using **ASP.NET Web Forms (C#)** with **ADO.NET** for database operations and **ML.NET** for machine learning predictions.
@@ -57,11 +56,11 @@ All ML models are trained dynamically using **ML.NET** each time the page loads 
 ---
 
 ## 📸 Implementation Snapshots
-<img width="973" height="441" alt="image" src="https://github.com/user-attachments/assets/90e06797-33fd-4be4-bb5b-648a2642bbf3" />
-<img width="973" height="419" alt="image" src="https://github.com/user-attachments/assets/36c94e49-12e7-4faa-b908-17c7da634620" />
-<img width="973" height="437" alt="image" src="https://github.com/user-attachments/assets/acbd4d7a-8219-4f4a-85b5-2ed1b82404b5" />
-<img width="973" height="436" alt="image" src="https://github.com/user-attachments/assets/83478a18-d7d9-4cb6-9b12-8f0f787c82c7" />
-<img width="973" height="437" alt="image" src="https://github.com/user-attachments/assets/16761e04-ebc0-433a-91ce-d9784d0ee767" />
+<img width="600" height="272" alt="image" src="https://github.com/user-attachments/assets/90e06797-33fd-4be4-bb5b-648a2642bbf3" />
+<img width="600" height="272" alt="image" src="https://github.com/user-attachments/assets/36c94e49-12e7-4faa-b908-17c7da634620" />
+<img width="600" height="272" alt="image" src="https://github.com/user-attachments/assets/acbd4d7a-8219-4f4a-85b5-2ed1b82404b5" />
+<img width="600" height="272" alt="image" src="https://github.com/user-attachments/assets/83478a18-d7d9-4cb6-9b12-8f0f787c82c7" />
+<img width="600" height="272" alt="image" src="https://github.com/user-attachments/assets/16761e04-ebc0-433a-91ce-d9784d0ee767" />
 
 [Project Report.docx](https://github.com/user-attachments/files/23394807/Project.Report.docx)
 
